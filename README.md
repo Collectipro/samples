@@ -7,6 +7,8 @@ The current samples are:
 3. **Track Top Shot growth.** Using Collectipro's Bulk Download feature, view Top Shot's growth over time by both purchase volume and market event frequency.
 4. **Find Best Time of Day.** Analyze trends in purchase price throughout the day to find the best hour to buy a moment.
 
+To look at the source code for each sample, please see the samples/ folder. To look at the data visualization output images corresponding to each sample, please see the output-images/ folder.
+
 If you have any questions about these samples, want to share your own, or suggest new samples — please join our Discord and ask for help there: https://discord.gg/Qmm9Kb4Rjb.
 
 ![image](https://user-images.githubusercontent.com/897310/116189239-7e302600-a6dd-11eb-9e27-da1a2d23f782.png)
