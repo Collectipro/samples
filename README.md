@@ -1,4 +1,4 @@
-# Code Samples
+# Code samples for using Collectipro data
 What can you build with Collectipro data? The code snippets in this repository will help you get acquainted with the Collectipro API and Bulk Download features.
 
 The current samples are:
