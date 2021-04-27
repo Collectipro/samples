@@ -8,3 +8,5 @@ The current samples are:
 4. **Find Best Time of Day.** Analyze trends in purchase price throughout the day to find the best hour to buy a moment.
 
 If you have any questions about these samples, want to share your own, or suggest new samples — please join our Discord and ask for help there: https://discord.gg/Qmm9Kb4Rjb.
+
+![image](https://user-images.githubusercontent.com/897310/116189239-7e302600-a6dd-11eb-9e27-da1a2d23f782.png)
