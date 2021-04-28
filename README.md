@@ -5,7 +5,7 @@ The current samples are:
 1. **Edition Purchase History.** Using the Collectipro API, plot the purchase price history of a particular edition (an edition is the combo of a particular play as part of a particular set).
 2. **Predict Future Prices.** Using the Collectipro API, extrapolate the future price value of a certain edition based on past trends.
 3. **Track Top Shot growth.** Using Collectipro's Bulk Download feature, view Top Shot's growth over time by both purchase volume and market event frequency.
-4. **Find Best Time of Day.** Analyze trends in purchase price throughout the day to find the best hour to buy a moment.
+4. **Find Best Time of Day.** Using Collectipro's Bulk Download feature, analyze trends in purchase price throughout the day to find the best hour to buy a moment.
 
 To look at the source code for each sample, please see the python-code/ folder. To look at the data visualization output images corresponding to each sample, please see the output-images/ folder.
 
